@@ -8,6 +8,6 @@ a python port scanner i made
 ## What it can do
 - [x] Can use threading
 - [x] Can detect banners
-- [] Can find vulnerbilities (Still in beta)
-- [] Can get https banners
-- [] Can save to a file
+- [ ] Can find vulnerbilities (Still in beta)
+- [ ] Can get https banners
+- [ ] Can save to a file
